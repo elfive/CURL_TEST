@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "curl_test", "curl_test\curl_test.vcxproj", "{339AD89F-CAF0-404A-AEF0-04A3BC62358D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Dll_Debug|x86 = Dll_Debug|x86
+		Dll_Release|x86 = Dll_Release|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339AD89F-CAF0-404A-AEF0-04A3BC62358D}.Debug|x86.ActiveCfg = Debug|Win32
+		{339AD89F-CAF0-404A-AEF0-04A3BC62358D}.Debug|x86.Build.0 = Debug|Win32
+		{339AD89F-CAF0-404A-AEF0-04A3BC62358D}.Dll_Debug|x86.ActiveCfg = Dll_Debug|Win32
+		{339AD89F-CAF0-404A-AEF0-04A3BC62358D}.Dll_Debug|x86.Build.0 = Dll_Debug|Win32
+		{339AD89F-CAF0-404A-AEF0-04A3BC62358D}.Dll_Release|x86.ActiveCfg = Dll_Release|Win32
+		{339AD89F-CAF0-404A-AEF0-04A3BC62358D}.Dll_Release|x86.Build.0 = Dll_Release|Win32
+		{339AD89F-CAF0-404A-AEF0-04A3BC62358D}.Release|x86.ActiveCfg = Release|Win32
+		{339AD89F-CAF0-404A-AEF0-04A3BC62358D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
